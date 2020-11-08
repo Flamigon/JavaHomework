@@ -1,6 +1,6 @@
-package ru.geekbrains.homework1;
+package ru.geekbrains.homework;
 
-public class SomethingNew {
+public class Lesson1 {
     public static void main (String[] args) {
         byte by = 2;
         short sh = 10000;
