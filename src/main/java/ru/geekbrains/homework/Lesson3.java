@@ -34,7 +34,7 @@ public class Lesson3 {
                 } else {
                     System.out.println("Пожалуйста, введите 1 или 0");
                 }
-                break;
+                return;
             }
         }
         System.out.println("Вы не угадали. Повторить игру еще раз? 1 – да / 0 – нет");
